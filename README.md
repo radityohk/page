@@ -12,6 +12,10 @@
 <p align="left">
 <a href="https://instagram.com/@radityohkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@radityohkk" height="30" width="40" /></a>
 </p>
+
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+
 ![](https://hit.yhype.me/github/profile?user_id=101078659)
 
 
